@@ -1,4 +1,5 @@
 ### Olá! Eu sou Thalles Tavares 👋
+Sou graduado em Recursos Humanos, estou estudando Engenharia de Software e demais cursos voltados para a área de tecnologia, pois estou em transição de carreira para que eu possa colocar em prática minhas habilidades em algo que eu sempre gostei e sonhei em atuar.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalles-tavares-4b152187)
 
