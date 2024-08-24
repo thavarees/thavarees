@@ -5,6 +5,8 @@ Sou graduado em Recursos Humanos, estou estudando Engenharia de Software e demai
 
 ![Thalles GitHub stats](https://github-readme-stats.vercel.app/api?username=thavarees&show_icons=true&theme=dracula)
 
+<img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thavarees&show_icons=true&theme=dracula&layout=compact" />
+
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br>
