@@ -3,9 +3,10 @@ Sou graduado em Recursos Humanos, estou estudando Engenharia de Software e demai
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalles-tavares-4b152187)
 
-![Thalles GitHub stats](https://github-readme-stats.vercel.app/api?username=thavarees&show_icons=true&theme=dracula)
-
+<div align="center" style="margin-bottom:100px">
+<img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=thavarees&theme=dracula&mode=weekly" />
 <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thavarees&show_icons=true&theme=dracula&layout=compact" />
+</div>
 
 ## Tecnologias que uso no meu dia
 
